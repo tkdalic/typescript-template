@@ -1,7 +1,6 @@
 export default function main(): number {
   console.log("hoge");
-  return 4;
-  
+  return 3;
 }
 
 main();
