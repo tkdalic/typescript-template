@@ -1,9 +1,9 @@
 {
-  "name": "indexed-kv",
+  "name": "typescript-template",
   "version": "0.1.0",
-  "description": "Using an indexedDB as a KV",
+  "description": "typescript-template",
   "main": "dist/index.js",
-  "repository": "git@github.com:tkdalic/indexed-kv.git",
+  "repository": "git@github.com:tkdalic/typescript-template.git",
   "author": "tkdalic <himagami126@gmail.com>",
   "license": "MIT",
   "scripts": {
